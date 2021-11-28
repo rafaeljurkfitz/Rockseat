@@ -103,7 +103,7 @@
 
 ### 🌎 Conectar
 
-1. ❌ Guia Estelar de Programação
+1. ✅ Guia Estelar de Programação
 1. ❌ Computador, Software e Hardware ✨
 1. ❌ Internet, Roteadores e Servidores ✨
 1. ❌ Sistemas Operacionais ✨
@@ -116,15 +116,27 @@
 ### 🪐 Fundamentar
 
 1. ✔️ Guia Estelar de HTML
-1. ✔️ Guia Estelar JavaScript
-1. ✔️ Pilotando com a DOM
-1. ❌ Terminal
-1. ❌ NodeJS
-1. ❌ Node + EJS
-1. ❌ SQL
-1. ❌ Estruturas de Dados  ✨
-1. ❌ Programação Orientada a Objetos ✨
-1. ❌ Programação Funcional ✨
-1. ✔️ Guia Estelar de Git
-1. ✔️ Guia estelar de Github
-1. ✔️ Guia Estelar de HTTP
+2. ✔️ Guia Estelar de CSS
+3. ✔️ Nem tudo são pixels
+4. ✔️ Uma caixa dentro da outra
+5. ✔️ Agora sim, cores
+6. ✔️ Posso ver e ouvir o HTML
+7. ✔️ Posicionando foguetes
+8. ✔️ App bonito, até nos textos
+9. ✔️ Formulários de outro planeta
+10. ✔️ Guia Estelar JavaScript
+11. ✔️ HTML que faz sentido, para todos
+12. ✔️ Nem só de classes ou ID's
+13. ✔️ Alinhando os planetas
+14. ❌ Pilotando com a DOM
+15. ❌ Terminal
+16. ❌ NodeJS
+17. ❌ Node + EJS
+18. ❌ SQL
+19. ❌ Estruturas de Dados  ✨
+20. ❌ Programação Orientada a Objetos ✨
+21. ❌ Programação Funcional ✨
+22. ✔️ Guia Estelar de Git
+23. ✔️ Guia estelar de Github
+24. ✔️ Guia Estelar de HTTP
+25. ❌ Maratona 01
