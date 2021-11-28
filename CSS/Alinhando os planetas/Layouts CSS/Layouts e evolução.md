@@ -1,18 +1,18 @@
-# Layouts e evolução
+## Layouts e evolução
 
-Layout tem a ver com a maneira que os elementos estão distribuidos na tela
+Layout tem a ver com a maneira que os elementos estão distribuidos na tela.
 
-## Normal flow
+### Normal flow
 
-Ou Flow Layout é a maneira que os elementos `block` e `inline` ficam na página
+O Flow Layout é a maneira que os elementos `block` e `inline` ficam na página.
 
 ```html
 <p> texto block com <strong> inline</strong> dentro </p>
 ```
 
-## Tables
+### Tables
 
-É a maneira de tabelas onde a tag `table` recebe um display `table` fazendo com que os elementos internos como `td` e `tr` possam ser usados para montar uma tabela
+É a maneira de tabelas onde a tag `table` recebe um display `table` fazendo com que os elementos internos como `td` e `tr` possam ser usados para montar uma tabela.
 
 ```html
 <table>
@@ -26,7 +26,7 @@ Ou Flow Layout é a maneira que os elementos `block` e `inline` ficam na página
     </tr>
 </table>
 ```
-## Tabless
+### Tabless
 
 Uso das propriedades `float`, `clear` para que os elementos possam mudar de posição na tela.
 
@@ -44,12 +44,11 @@ Uso das propriedades `float`, `clear` para que os elementos possam mudar de posi
 </div>
 ```
 
-## Flexbox
+### Flexbox
 
-A caixa se torna flex, fazendo com que os elementos internos possam receber melhor;
-
-- Alinhamento
-- Ordenação
-- Tamanhos flexíveis
+A caixa se torna flex, fazendo com que os elementos internos possam receber melhor:
+- Alinhamento;
+- Ordenação;
+- Tamanhos flexíveis.
 
 
