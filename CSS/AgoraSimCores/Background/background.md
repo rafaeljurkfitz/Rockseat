@@ -1,17 +1,17 @@
 ## Background
 
-- Define um fundo para o nosso elemento
-- Sua area de atuacao e a caixa toda
-- por padrao, e transparente
+- Define um fundo para o nosso elemento;
+- Sua área de atuação e a caixa toda;
+- Por padrão, é transparente.
 
 ### Exemplos
 
-- Usar cores solidas
-- Usar imagens
-- Controlar
-    - a posicao das imagens
-    - se elas se repetem ou nao
-    - o tamanho delas na caixa
-- Usar cor e imagem juntas
-- Usar cor gradiente
+- Usar cores sólidas;
+- Usar imagens;
+- Controlar:
+    - A posição das imagens;
+    - Se elas se repetem ou não;
+    - O tamanho delas na caixa.
+- Usar cor e imagem juntas;
+- Usar cor gradiente.
 
