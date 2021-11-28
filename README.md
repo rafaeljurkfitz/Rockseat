@@ -103,7 +103,7 @@
 
 ### 🌎 Conectar
 
-1. ✅ Guia Estelar de Programação
+1. ✔️ Guia Estelar de Programação
 1. ❌ Computador, Software e Hardware ✨
 1. ❌ Internet, Roteadores e Servidores ✨
 1. ❌ Sistemas Operacionais ✨
