@@ -1,3 +1,5 @@
+# App bonito, até nos textos
+
 ## Trabalhando com fontes
 
 Tipografia transmite mensagem.
@@ -5,6 +7,23 @@ Tipografia transmite mensagem.
     - Negrito;
     - Tamanho;
     - Estilo.
+
+### Exemplo
+Código em HTML: 
+```html
+<p>
+    O rato roeu a roupa do rei de Roma.
+</p> 
+```
+Código em CSS:
+```css
+p {
+    font-family: "Times New Roman", Times,sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px;
+}
+``` 
 
 ### Basic Font Properties
 

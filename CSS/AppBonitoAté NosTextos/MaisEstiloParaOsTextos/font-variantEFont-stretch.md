@@ -1,6 +1,6 @@
-# Atribuindo mais estilos às fontes
+## Atribuindo mais estilos às fontes
 
-* variacões na apresentacão fonte
+* Variacões na apresentacão fonte
 
 ```css
 p {
@@ -10,14 +10,11 @@ p {
 
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals
 
+### Font-stretch 
 
--------------------------------------------
-
-## font-stretch 
-
-* alargamento ou encolhimento da fonte
-* aceita palavra-chaves como: expanded, condensed, normal
-* aceita porcentagens de 50% a 200%
+* Alargamento ou encolhimento da fonte;
+* Aceita palavra-chaves como: `expanded`, `condensed`, `normal`;
+* Aceita porcentagens de `50%` a `200%`.
 
 ```css
 p {
@@ -27,11 +24,9 @@ p {
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/font-stretch
 
--------------------------------------------
+### Letter-spacing
 
-## Letter-spacing
-
-* Espacoes entre caracteres
+* Espaços entre caracteres.
 
 ```css
 p {
@@ -41,11 +36,9 @@ p {
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/Letter-spacing
 
--------------------------------------------
+### Word-spacing
 
-## Word-spacing
-
-* Espacoes entre palavras
+* Espaços entre palavras.
 
 ```css
 p {
@@ -55,13 +48,11 @@ p {
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/Word-spacing
 
--------------------------------------------
+### Line-height
 
-## line-height
-
-* Espacoes entre linhas
-* Pode ser com unidades ou sem unidades de medida
-* Comuns: 1.5 ou 2
+* Espaços entre linhas;
+* Pode ser com unidades ou sem unidades de medida;
+* Comuns: 1.5 ou 2.
 
 ```css
 p {
@@ -71,11 +62,9 @@ p {
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/Line-height
 
--------------------------------------------
+## Text-transform
 
-## text-transform
-
-* Transformacao do texto
+* Transformação do texto.
 
 ```css
 p {
@@ -85,16 +74,13 @@ p {
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform
 
+### Text-decoration
 
--------------------------------------------
-
-## text-decoration
-
-* Aparencia decorativa de um texto
-* line: underline | overline | line-through
-    * podemos aplicar mais de 1 valor
-* style: wavy | dotted | double | dashed | solid
-* color: `<color>` values
+* Aparência decorativa de um texto;
+* line: `underline` | `overline` | `line-through`;
+    * Podemos aplicar mais de 1 valor.
+* style: `wavy` | `dotted` | `double` | `dashed` | `solid`;
+* color: `<color>` values.
 
 ```css
 p {
@@ -104,11 +90,9 @@ p {
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration
 
--------------------------------------------
+### Text-align
 
-## text-align
-
-* Alinhamento do texto
+* Alinhamento do texto.
 
 ```css
 p {
@@ -118,13 +102,10 @@ p {
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/text-align
 
--------------------------------------------
+### Text-shadow
 
-## text-shadow
-
-* Sombra aplicada a um texto
-* Permite multiplos valores
-
+* Sombra aplicada a um texto;
+* Permite multiplos valores.
 
 ```css
 p {
@@ -135,12 +116,9 @@ p {
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow
 
--------------------------------------------
+### Shorthand
 
-## Shorthand
-
-* font-style, font-variant, font-weight, font-stretch, font-size, line-height e font-family
-
+* font-style, font-variant, font-weight, font-stretch, font-size, line-height e font-family.
 
 ```css
 p {
