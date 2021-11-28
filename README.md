@@ -70,7 +70,7 @@
 1. ✔️ (HTML) Formulários de outro planeta
 1. ✔️ (HTML) HTML que faz sentido, para todos
 1. ✔️ (HTML) Posso ver e ouvir o HTML
-1. ✔️ (JS) Pilotando com a DOM
+1. ❌ (JS) Pilotando com a DOM
 1. ✔️ (CSS) App bonito, até nos textos
 1. ✔️ (CSS) Nem tudo são pixels
 1. ✔️ (CSS) Nem só de classes ou ID's
