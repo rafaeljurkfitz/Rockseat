@@ -1,41 +1,35 @@
-# Trabalhando com fontes
+## Trabalhando com fontes
 
-Tipografia transmite mensagem
+Tipografia transmite mensagem.
 
-    - negrito
-    - tamanho
-    - estilo
+    - Negrito;
+    - Tamanho;
+    - Estilo.
 
---------------------------------------
+### Basic Font Properties
 
-## Basic Font Properties
+* `font-family`;
+* `font-weight`;
+* `font-style`;
+* `font-size`.
 
-* font-family
-* font-weight
-* font-style
-* font-size
+### Font Family
 
----------------------------------------
-
-## Font Family
-
-* Tipo de donte de um elemento
-* Lista de fontes e ordem de prioridade
-* inclui *fallback* font
+* Tipo de fonte de um elemento;
+* Lista de fontes e ordem de prioridade;
+* inclui *fallback* font.
 
 ```css
 p {
     font-family: "Times New Roman", Times, serif;
 }
 ```
-- serif
-- sans
+- serif;
+- sans.
 
----------------------------------------
+### Font Weight
 
-## Font Weight
-
-* Peso da fonte 
+* Peso da fonte. 
 
 ```css
 p {
@@ -43,11 +37,9 @@ p {
 }
 ```
 
----------------------------------------
+### Font Style
 
-## Font Style
-
-* O estilo da fonte
+* O estilo da fonte.
 
 ```css
 span {
@@ -55,11 +47,9 @@ span {
 }
 ```
 
----------------------------------------
+### Font Size
 
-## Font Size
-
-* O tamanho da fonte
+* O tamanho da fonte.
 
 ```css
 p {
@@ -67,20 +57,17 @@ p {
 }
 ```
 
----------------------------------------
+### Web Fonts
 
-## Web Fonts
+- Fontes do sistema x fontes da web.
+- Como usr fontes para web?
 
-- fontes do sistema x fontes da web
-- como usr fontes para web?
-
-    * @font-face
-    * @import
-    * link
-
+    * `@font-face`
+    * `@import`
+    * `link`
 
 ### Referencias
 
 https://www.w3.org/TR/css-fonts-3/
 https://css-tricks.com/snippets/css/using-font-face/
-fonts.google.com
+https://fonts.google.com
