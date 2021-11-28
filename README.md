@@ -16,12 +16,14 @@
   <a href="/JavaScript/javascript.md"><img align="center" alt="JS" height="50" width="60" src=""></a>
   <a href="/Git/git.md"><img align="center" alt="Git" height="50" width="60" src=""></a>
   <a href="https://github.com/rafaeljurkfitz"><img align="center" alt="Github" height="50" width="60" src=""></a>
-  <!--
+    <!--
   <a href="/node/node.md"><img align="center" alt="NodeJS" height="50" width="60" src=""></a>
   <strong height="50" width="60">&nbsp; EJS &nbsp;</strong>
   <a href="/Node_EJS/EJS.md"><img align="center" alt="Express" height="50" width="60" src=""></a>
   <strong height="50" width="60">&nbsp; SQL &nbsp;</strong>
-</div> -->
+ -->
+</div>
+  
 
 ## Anotações
 
@@ -29,12 +31,16 @@
   📙 <a href="/HTML/html.md"><strong>HTML</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
   📘 <a href="/CSS/css.md"><strong>CSS</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
   📒 <a href="/JavaScript/javascript.md"><strong>JavaScript</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
-  🕓 <a href="/Git/git.md"><strong>Git</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
+  🕓 <a href="/Git/git.md"><strong>Git</strong></a>
+  
   <!--
+  &nbsp;&nbsp; | &nbsp;&nbsp;
+  
   💻 <a href="/node/node.md"><strong>NodeJS</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
   📄 <a href="/node_EJS/EJS.md"><strong>EJS</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
   💾 <a href="/SQL/sql.md"><strong>SQL</strong></a>
-</div> -->
+ -->
+</div>
 
 ## Módulos
 
