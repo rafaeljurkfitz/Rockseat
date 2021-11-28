@@ -1,22 +1,23 @@
-# Cores
+## Cores
 
 Usamos CSS para alterar cores do nosso documento.
 
-## Tipos
+### Tipos
 
-* background-color (para caixas)
-* color (para textos)
-* border-color (para-caixas)
+* `background-color` (para caixas);
+* `color` (para textos);
+* `border-color` (para-caixas);
 * outros...
 
-## Valores
+### Valores
 
-Podemos definir os valores por
+Podemos definir os valores por:
 
-* palavra-chave (blue, transparent)
-* hexadecimal (#990011)
-* funções: rgb, rgba, hsl, hsla
+* Palavra-chave (`blue`, `transparent`)
+* Hexadecimal (`#990011`)
+* Funções: `rgb`, `rgba`, `hsl` e `hsla`.
 
+### Exemplos:
 ```css
 element {
     /* Keyword values */
@@ -57,6 +58,5 @@ element {
 }
 ```
 
-## Referencia
-
+### Referência:
 https://developer.mozilla.org/pt-BR/docs/Web/CSS/color_value
