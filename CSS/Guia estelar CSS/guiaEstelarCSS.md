@@ -221,13 +221,13 @@ inline > tag stylle > tag link
 
 ### Exemplos comuns
 
-- @import           /* incluir um CSS externo */
+- `@import`    - Incluir um CSS externo;
 
-- @media            /* regras condicionais para dispositivos */
+- `@media`     - Regras condicionais para dispositivos;
 
-- @font-face        /* fontes externas */
+- `@font-face` - Fontes externas; 
 
-- @keyframes        /* Animation */
+- `@keyframes` - Animation. 
 
 ```css
 @import "http://local.com/style.css";
