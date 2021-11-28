@@ -55,6 +55,6 @@
 ### Valores
 
 Unidades de medida:
-Fixas: `px`, `pt`;
-Flexíveis: `%`, `em`, `rem`.
+- Fixas: `px`, `pt`;
+- Flexíveis: `%`, `em`, `rem`.
 
