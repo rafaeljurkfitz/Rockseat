@@ -31,7 +31,7 @@
   📙 <a href="/HTML/html.md"><strong>HTML</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
   📘 <a href="/CSS/css.md"><strong>CSS</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
   📒 <a href="/JavaScript/javascript.md"><strong>JavaScript</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
-  🕓 <a href="Starter/Git/git.md"><strong>Git</strong></a>
+  🕓 <a href="/Starter/Git/git.md"><strong>Git</strong></a>
   
   <!--
   &nbsp;&nbsp; | &nbsp;&nbsp;
