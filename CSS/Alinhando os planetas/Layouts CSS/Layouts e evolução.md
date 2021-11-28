@@ -1,3 +1,10 @@
+# Alinhando os planetas
+
+## Introdução
+
+- Treinamento básicos de elementos HTML e propriedades CSS;
+- Sintaxe dessas duas tecnologias.
+
 ## Layouts e evolução
 
 Layout tem a ver com a maneira que os elementos estão distribuidos na tela.
