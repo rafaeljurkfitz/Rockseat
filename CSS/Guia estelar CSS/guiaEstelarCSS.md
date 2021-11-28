@@ -1,34 +1,37 @@
-# Introducao
+# Introducão
 
 ## O que significa CSS ?
 
-* Cascading Style Sheet
-* Codigo para criar estilos no HTML
-* HTML é a estrutura, e o CSS é a beleza
+* Cascading Style Sheet;
+* Codigo para criar estilos no HTML;
+* HTML é a estrutura, e o CSS é a beleza;
 * Não é uma linguagem de programação;
-* É uma linguagem style sheet
+* É uma linguagem style sheet.
 
-## vamos ao exemplo
+### Exemplo
+Código em HTML:
 ```html
-    <h1>Título da página</h1> 
+    <h1>Título da página</h1>
 
 ```
+Código em CSS:
 ```css 
     h1 {
-        color:blue;
+        color:blue; 
     }
 ```
 
-# Comentarios
+## Comentários
 
-* Nao ira afetar o seu codigo
-* Ajuda a lembrar blocos de codigos
-* Deixa dicas para leitura
-* Ajuda outros a entenderem
-* Nunca esqueca de fechar um comentario
+* Nao irá afetar o seu código;
+* Ajuda a lembrar blocos de códigos;
+* Deixa dicas para leitura;
+* Ajuda outros a entenderem;
+* Nunca esqueca de fechar um comentário.
 
-Comentarios comecam com `/*` e terminam com `*/`.
+Comentários começam com `/*` e terminam com `*/`.
 
+### Exemplo
 ```css
 
 /* Basico */
@@ -63,7 +66,7 @@ div p {
 }
 ```
 
-* Voce podera usar para desabilitar partes do seu codigo
+* Voce poderá usar para desabilitar partes do seu código.
 
 ```css
 
@@ -76,7 +79,7 @@ p {
 }
 ```
 
-# Anatomia
+## Anatomia
 
 ```css
 h1 {
@@ -86,26 +89,33 @@ h1 {
 }
 ```
 
-* Selector
-* Declaration
-* Properties
-* Property Value
+* Selector;
+* Declaration;
+* Properties;
+* Property Value.
 
+## Selectors
 
-# Selectors
+Conecta um elemento HTML com o CSS.
 
-Conecta um elemento HTML com o CSS
+### Tipos
 
-## Tipos
-
-* Global selector `*`
-* Element/Type selector `h1, h2, p, div`
-* ID Selector `#box, #container`
+* Global selector `*`;
+* Element/Type selector `h1, h2, p, div`;
+* ID Selector `#box, #container`;
 * Class Selector `.red, .m-4`
-* Attribute selector, Pseudo-class, Pseudo-element, e outros
+* Attribute selector, Pseudo-class, Pseudo-element, e outros.
 
+### Exemplo
+Código em HTML:
+```html
+<div id="container" class="m-40">
+  <h1>Titulo</h1>
+  <h2>Subtitulo</h2>
+</div>
+```
+Código em CSS:
 ```css
-/* Exemplos */
 * {
   margin: 0;
 }
@@ -123,47 +133,38 @@ h1, h2 {
     font-size: 60px;
     background: gray;
 }
-/*
-HMTL
-
-<div id="container" class="m-40">
-  <h1>Titulo</h1>
-  <h2>Subtitulo</h2>
-</div>
-
-*/
 ```
-# Box Model 
+
+## Box Model 
+### Exemplo
+Código em HTML:
+```html
+<h1>Evolua Rápido</h1>
+<p>Descrição</p>
+<button>Embarcar</button>
+```
+Código em CSS:
 ```css
 h1 {
   border: 1px solid red;
   margin: 20px;
   padding: 60px;
 }
-/*
-<h1>Evolua Rapido</h1>
-<p>Descricao</p>
-<button>Embarcar</button>
-/*
 ```
 
-# Adicionando CSS
+## Adicionando CSS
 
-
-
-## inline
-
-* atributo `style`
-
+### Inline
+* Atributo `style`:
+```html
     <h1 style="color: blue">
         Titulo
         <strong style="color: red">alo</strong>
     </h1>
-
-## <style>
-
-* tag html que ira conter o css
-
+```
+### <style>
+* Tag html que irá conter o CSS:
+```html
 <style>
         h1 {
             color: blue;
@@ -171,28 +172,27 @@ h1 {
         strong {
             color: red;
         }
-    </style>
+</style>
+```
+### <link> 
 
-## <link> 
+* Arquivo CSS externo.
 
-* arquivo css externo
+### @import
 
-## @import
+* Arquivo CSS externo.
 
-* arquivo css externo
-
-# A Cascata (cascading)
+## A Cascata (cascading)
 
 A escolha do browser de qual regra aplicar, caso haja muitas regras para o mesmo elemento.
 
 * Seu estilo é lido de cima para baixo.
 
-É levado em consideração 3 fatores
+É levado em consideração 3 fatores:
 
 1. Origem do estilo
 2. Especialidade
 3. Importância
-
 
 ### Origem do estilo
 
@@ -200,7 +200,7 @@ inline > tag stylle > tag link
 
 ### Especialidade
 
-É um calculo matematico, onde, cada tipo de seletor e origem do estilo, possuem valores a serem considerados.
+É um cálculo matemático, onde, cada tipo de seletor e origem do estilo, possuem valores a serem considerados.
 
 0. Universal selector, combinators e nagation pseudo-class (:not())
 1. Element type selector e pseudo-elements (::before, ::after)
@@ -208,22 +208,22 @@ inline > tag stylle > tag link
 100. ID selector
 1000. Inline
 
-### A regra de importancia
+### A regra de importância
 
-* cuidado, evite o uso
-* nao é considerado uma boa prática
-* quebra o fluxo natural de cascata
+* Cuidado, evite o uso;
+* Não é considerado uma boa prática;
+* Quebra o fluxo natural de cascata.
 
-# At-rules
+## At-rules
 
-* Está relacionado ao comportamento do CSS
-* começa com o sinal de `@` seguido do identificador e valor
+* Está relacionado ao comportamento do CSS;
+* Começa com o sinal de `@` seguido do identificador e valor.
 
-## Exemplos comuns
+### Exemplos comuns
 
-- @import        /* incluir um CSS externo */
+- @import           /* incluir um CSS externo */
 
-- @media        /* regras condicionais para dispositivos */
+- @media            /* regras condicionais para dispositivos */
 
 - @font-face        /* fontes externas */
 
@@ -246,11 +246,11 @@ inline > tag stylle > tag link
 
 ```
 
-# Shorthand
+## Shorthand
 
-* juncao de propriedades
-* resumido
-* legivel
+* Junção de propriedades;
+* Resumido;
+* Legivel.
 
 ```css
 {
@@ -276,24 +276,24 @@ inline > tag stylle > tag link
 
 ```
 
-## Detalhes
+### Detalhes
 
-* nao ira considerar propriedades anteriores
-* valores nao especificados irao assumir o valor padrao
-*geralmente a ordem descrita nao importa mas se houver muitas propriedades com valores semelhantes, poderemos encontrar problemas
+* Não irá considerar propriedades anteriores;
+* Valores não especificados irão assumir o valor padrão;
+* Geralmente a ordem descrita não importa, mas se houver muitas propriedades com valores semelhantes, poderemos encontrar problemas.
 
-## Propriedades que aceitam shorthand
+### Propriedades que aceitam shorthand
 
 animation, backgorund, border, border-bottom, border-color, border-left, border-radius, border-right, border-style, border-top, border-width, column-rule, columns, flex, flew-flow, font, grid, grid-area, grid-column, grid-row, grid-template, list-style, margin, offset, outline, overflow, padding, place-content, place-items, place-self, text-decoration, transition
 
 **https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties**
 
-# Funcoes
+## Funções
 
-* nome seguido de abre e fecha parentesis
-* recebe argumentos
+* Nome seguido de abre e fecha parentesis;
+* Recebe argumentos.
 
-## Exemplos
+### Exemplos
 
 ```css
 @import url("http://urlaqui.com/style.css");
@@ -305,11 +305,11 @@ animation, backgorund, border, border-bottom, border-color, border-left, border-
 
 ```
 
-# Vendor Prefixes
+## Vendor Prefixes
 
-Permite que browsers adicione `features` a fim de colocar em uso alguma novidade que vemos no CSS
+Permite que browsers adicionem `features` a fim de colocar em uso alguma novidade que vemos no CSS.
 
-# Exemplo
+### Exemplo
 
 ```css
 p {
