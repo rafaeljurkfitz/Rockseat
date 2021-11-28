@@ -1,0 +1,8 @@
+ul > li[class="red"] {
+    color: red;
+}
+
+.red {
+    color: blue
+}
+

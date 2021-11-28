@@ -1,0 +1,15 @@
+.red {
+    color: red;
+}
+
+.big {
+    font-size: 3em;
+}
+
+[title] {
+    color: blue;
+}
+
+p:hover, h1:hover {
+    color: green;
+}

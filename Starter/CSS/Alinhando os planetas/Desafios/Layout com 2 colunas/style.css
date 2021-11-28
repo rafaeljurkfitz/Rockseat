@@ -1,0 +1,24 @@
+* {
+    margin: 1;
+}
+
+
+.container {
+    display: flex;
+    gap: 1rem; 
+}
+
+aside, main{
+    height: 100vh;
+    border: 1px solid;
+}
+
+aside {
+    background-color: blue;
+    flex-basis: 25%;
+}
+
+main {
+    background-color: red;
+    flex: 1;
+}

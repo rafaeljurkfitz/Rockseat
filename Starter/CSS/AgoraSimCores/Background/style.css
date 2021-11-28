@@ -1,0 +1,30 @@
+* {margin: 0;}
+
+header {
+  
+    height: 100px;
+    border: 7px dashed purple;
+    padding: 16px;
+    
+    background-color: rgb(0, 0, 0);
+    background-image: url(https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat.svg&w=256&q=100);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-origin: content-box;
+    background-clip: border-box;
+    background-attachment: scroll;
+
+    /* Shorthand */
+    background: rgb(0, 0, 0)  url(https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat.svg&w=256&q=100) no-repeat center / contain content-box border-box scroll;
+
+}
+
+main {
+    padding: 8px;
+    background: linear-gradient(45deg, purple, black);
+}
+
+h1, p {
+    color: white;
+}

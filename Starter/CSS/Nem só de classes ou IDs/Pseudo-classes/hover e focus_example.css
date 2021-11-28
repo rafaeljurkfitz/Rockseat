@@ -1,0 +1,9 @@
+li:hover {
+    font-weight: bold;
+    color: red;
+}
+
+input:focus {
+    border-color: red;
+    outline: none;
+}

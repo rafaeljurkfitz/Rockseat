@@ -1,0 +1,12 @@
+h1 + p {
+    color: red;
+}
+
+h1 ~ p {
+    font-size: large;
+    text-decoration: underline orange;
+}
+
+button + button {
+    margin-left: 32px;
+}
