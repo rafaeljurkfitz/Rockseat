@@ -58,4 +58,23 @@ A caixa se torna flex, fazendo com que os elementos internos possam receber melh
 - Ordenação;
 - Tamanhos flexíveis.
 
+Código em HTML:
+```html
+<div class="flexbox">
+        <div class="item">A</div>
+        <div class="item">B</div>
+        <div class="item">C</div>
+</div>    
+```
+Código em CSS:
+```css
+.flexbox {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
 
+.item:nth-child(1) {
+    order: 1;
+}
+```

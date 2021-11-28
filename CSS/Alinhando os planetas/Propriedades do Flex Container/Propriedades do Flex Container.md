@@ -1,60 +1,60 @@
-# Propriedades do Flex Container 
+## Propriedades do Flex Container 
 
-* Direção dos itens
-* Multi linhas
-* Alinhamento
-    * Principal
-    * Cruzado
-* Espaços entre os itens
+* Direção dos itens;
+* Multi linhas;
+* Alinhamento:
+    * Principal;
+    * Cruzado.
+* Espaços entre os itens.
 
-# Direção dos itens
+## Direção dos itens
 
-- Flex é uma dimensão (horizontal ou vertical)
-- podemos mudar a direção com `flex-direction`
-- valores (row | row-reverse | column | column-reverse)
+- Flex é uma dimensão (`horizontal` ou `vertical`);
+- Podemos mudar a direção com `flex-direction`;
+- Valores (`row` | `row-reverse` | `column` | `column-reverse`).
 
-# Flex-wrap
+## Flex-wrap
 
-- Podemos usar multi linhas.
+- Podemos usar multi linhas;
 - Cada nova linha, um novo flex container.
 
-# Flex-flow
+## Flex-flow
 
 - shorthand
 - flex-direction || flex-wrap
 
-# Justify-content
+## Justify-content
 
-- Alinhamento dos elementos dentro do container
-- Distribuição dos elementos
+- Alinhamento dos elementos dentro do container;
+- Distribuição dos elementos.
 
-## Valores
+### Valores
 
-- flex-start
-- flex-end
-- center
-- space-around
-- space-between
-- space-evenly
+- `flex-start`
+- `flex-end`
+- `center`
+- `space-around`
+- `space-between`
+- `space-evenly`
 
-# Align-items
+## Align-items
 
-- Alinhamento dos elementos no eixo cruzado
+- Alinhamento dos elementos no eixo cruzado.
 
-## Valores
+### Valores
 
-- stretch
-- flex-start
-- flex-end
-- center
+- `stretch`;
+- `flex-start`;
+- `flex-end`;
+- `center`.
 
-# Gap
+## Gap
 
-- Espaços entre os elementos
+- Espaços entre os elementos.
 
-## Valores
+### Valores
 
-Unidades de medida
-fixas: px, pt
-flexíveis: %, em, rem
+Unidades de medida:
+Fixas: `px`, `pt`;
+Flexíveis: `%`, `em`, `rem`.
 

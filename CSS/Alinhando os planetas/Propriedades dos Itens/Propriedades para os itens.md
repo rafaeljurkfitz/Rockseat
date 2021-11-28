@@ -1,27 +1,27 @@
-# Propriedades para os itens
+## Propriedades para os itens
 
-- flex-basis
-- flex-grow
-- flex-shrink
-- flex
-- order
+- flex-basis;
+- flex-grow;
+- flex-shrink;
+- flex;
+- order.
 
-# Flex-basis
+### Flex-basis
 
-- Define o tamanho inicial dos items do container. Todos os elementos-filhos se organizam em linha e ocupam apenas o espaço necessário para exibir seu conteúdo
+- Define o tamanho inicial dos items do container. Todos os elementos-filhos se organizam em linha e ocupam apenas o espaço necessário para exibir seu conteúdo.
 
-# Flex-grow
+### Flex-grow
 
 - O crescimento do item dentro do container em relação aos espaços vazios.
 
-# Flex-shrink
+### Flex-shrink
 
 - O encolher do item dentro do container.
 
-# Flex
+### Flex
 
-- shorthand
-- flew-grow flew-shrink flex-basis
-- podem ter 1, 2 ou 3 valores
+- shorthand;
+- flew-grow flew-shrink flex-basis;
+- Podem ter 1, 2 ou 3 valores.
 
 
