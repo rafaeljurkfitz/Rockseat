@@ -196,15 +196,15 @@ A escolha do browser de qual regra aplicar, caso haja muitas regras para o mesmo
 
 ### Origem do estilo
 
-inline > tag stylle > tag link
+Inline > Tag style > Tag link
 
 ### Especialidade
 
 É um cálculo matemático, onde, cada tipo de seletor e origem do estilo, possuem valores a serem considerados.
 
-0. Universal selector, combinators e nagation pseudo-class (:not())
-1. Element type selector e pseudo-elements (::before, ::after)
-10. Classes e attribute selectors ([type="radio"])
+0. Universal selector, combinators e nagation pseudo-class (`:not()`)
+1. Element type selector e pseudo-elements (`::before`, `::after`)
+10. Classes e attribute selectors (`[type="radio"]`)
 100. ID selector
 1000. Inline
 
