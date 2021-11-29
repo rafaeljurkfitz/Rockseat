@@ -4,9 +4,9 @@
 
 Tipografia transmite mensagem.
 
-    - Negrito;
-    - Tamanho;
-    - Estilo.
+    * Negrito;
+    * Tamanho;
+    * Estilo.
 
 ### Exemplo
 Código em HTML: 
