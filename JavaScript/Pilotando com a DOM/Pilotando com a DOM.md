@@ -14,10 +14,10 @@
 
 ### Selecionando Elementos
 
-#### getElementById()
+#### GetElementById()
 
 ```html 
-        <h1 id="blog-title">Meu Blog</h1> 
+<h1 id="blog-title">Meu Blog</h1> 
 ```
 ```javascript
 // getElementById()
@@ -29,9 +29,8 @@ console.log(element)
 #### getElementsByClassName()
 
 ```html
-        <h1 class="one">Meu Blog</h1>
-
-        <p class="one"></p>
+<h1 class="one">Meu Blog</h1>
+<p class="one"></p>
 ```
 ```javascript
 // getElementByClassName()
@@ -42,19 +41,18 @@ console.log(element)
 
 #### getElementsByTagName()
 ```html
-        <h1>Meu Blog</h1>
+<h1>Meu Blog</h1>
 ```
 
 ```javascript
 // getElementsByTagName()
-
 const element = document.getElementsByTagName('h1')
 console.log(element)
 ```
 
 #### querySelector
 ```html
-    <h1 class="one">Meu Blog</h1>
+<h1 class="one">Meu Blog</h1>
 ```
 
 ```javascript
@@ -71,20 +69,18 @@ console.log(element)
 
 ```javascript
 // querySelectorAll()
-
 const element = document.querySelectorAll('.one')
 console.log(element)
-
 element.forEach(el => console.log(el))
 ```
 
 ### Qual usar?
 
-- getElementById(`element`)
-- getElementsByClassName(`HTMLCollection`)
-- getElementsByTagName(`HTMLCollection`)
-- querySelector(`element`)
-- querySelectorAll(`Nodelist`)
+* GetElementById                - `element`
+* GetElementsByClassName        - `HTMLCollection`
+* GetElementsByTagName          - `HTMLCollection`
+* QuerySelector                 - `element`
+* QuerySelectorAll              - `Nodelist`
 
 ### Manipulando conteúdos
 
@@ -93,9 +89,7 @@ element.forEach(el => console.log(el))
 ```javascript
 const element = document.querySelector('h1')
 console.log(element)
-
 element.textContent += " Olá Devs!"
-
 console.log(element.textContent)
 ```
 
@@ -103,7 +97,6 @@ console.log(element.textContent)
 
 ```javascript
 const element = document.querySelector('h1')
-
 element.innerText = "Olá Devs!"
 ```
 
@@ -112,7 +105,6 @@ element.innerText = "Olá Devs!"
 ```javascript
 const element = document.querySelector('h1')
 console.log(element)
-
 element.innerHTML = "Olá Devs! <small> !!! </small>"
 ```
 
@@ -123,7 +115,6 @@ element.innerHTML = "Olá Devs! <small> !!! </small>"
 ```
 ```javascript
 const element = document.querySelector('input')
-
 element.value = "Valor que eu quiser"
 ```
 
