@@ -20,55 +20,47 @@
 <h1 id="blog-title">Meu Blog</h1> 
 ```
 ```javascript
-// getElementById()
-
 const element = document.getElementById('blog-title')
 console.log(element)
 ```
 
-#### getElementsByClassName()
+#### GetElementsByClassName()
 
 ```html
 <h1 class="one">Meu Blog</h1>
 <p class="one"></p>
 ```
 ```javascript
-// getElementByClassName()
-
 const element = document.getElementsByClassName('one')
 console.log(element)
 ```
 
-#### getElementsByTagName()
+#### GetElementsByTagName()
 ```html
 <h1>Meu Blog</h1>
 ```
 
 ```javascript
-// getElementsByTagName()
 const element = document.getElementsByTagName('h1')
 console.log(element)
 ```
 
-#### querySelector
+#### QuerySelector
 ```html
 <h1 class="one">Meu Blog</h1>
 ```
 
 ```javascript
-// querySelector()
-
 const element = document.querySelector('.one')
 console.log(element)
 ```
 
-#### querySelectorAll
+#### QuerySelectorAll
 ```html
 <h1 class="one">Meu Blog</h1>
 ```
 
 ```javascript
-// querySelectorAll()
 const element = document.querySelectorAll('.one')
 console.log(element)
 element.forEach(el => console.log(el))
@@ -84,7 +76,7 @@ element.forEach(el => console.log(el))
 
 ### Manipulando conteúdos
 
-#### textContent
+#### TextContent
 
 ```javascript
 const element = document.querySelector('h1')
@@ -93,14 +85,14 @@ element.textContent += " Olá Devs!"
 console.log(element.textContent)
 ```
 
-#### innerText
+#### InnerText
 
 ```javascript
 const element = document.querySelector('h1')
 element.innerText = "Olá Devs!"
 ```
 
-#### innerHTML
+#### InnerHTML
 
 ```javascript
 const element = document.querySelector('h1')
@@ -127,13 +119,13 @@ const header = document.querySelector('header')
 //Adicionando atributo id
 header.setAttribute('id','header')
 
-//valor da variavel headerID => atributos que estao em sendo pegos pelo querySelector atraves do seletor #header.
+//Valor da variável headerID => atributos que estao em sendo pegos pelo querySelector através do seletor #header.
 const headerID = document.querySelector('#header')
 
-//Print na tela do valor que esta no atributo id de header
-console.log(headerID.getAttribute('class'))
+//Print na tela do valor que está no atributo id
+console.log(headerID.getAttribute('id'))
 
-//Remocao do atributo id e
+//Remocao do atributo id
 header.removeAttribute('id')
 
 //Adicionando class no head e um valor de 'bg header'
