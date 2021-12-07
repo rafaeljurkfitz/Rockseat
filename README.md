@@ -14,10 +14,10 @@
   <a href="/HTML/html.md"><img align="center" alt="HTML" height="50" width="60" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/html5-plain.svg"></a>
   <a href="/CSS/css.md"><img align="center" alt="CSS" height="50" width="60" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/css3-plain.svg"></a>
   <a href="/JavaScript/javascript.md"><img align="center" alt="JS" height="50" width="60" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/javascript-plain.svg"></a>
-  <a href="Git/git.md"><img align="center" alt="Git" height="50" width="60" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/git-original.svg"></a>
+  <a href="/Git/git.md"><img align="center" alt="Git" height="50" width="60" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/git-original.svg"></a>
   <a href="https://github.com/rafaeljurkfitz"><img align="center" alt="Github" height="50" width="60" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/github-white.svg"></a>
-    <!--
-  <a href="/node/node.md"><img align="center" alt="NodeJS" height="50" width="60" src="https://github.com/vitorhonna/vitorhonna/blob/main/assets/express-white.svg"></a>
+  <a href="/Node/node.md"><img align="center" alt="NodeJS" height="50" width="60" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/express-white.svg"></a>
+  <!--
   <strong height="50" width="60">&nbsp; EJS &nbsp;</strong>
   <a href="/Node_EJS/EJS.md"><img align="center" alt="Express" height="50" width="60" src=""></a>
   <strong height="50" width="60">&nbsp; SQL &nbsp;</strong>
