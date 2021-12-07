@@ -31,12 +31,12 @@
   📙 <a href="/HTML/html.md"><strong>HTML</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
   📘 <a href="/CSS/css.md"><strong>CSS</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
   📒 <a href="/JavaScript/javascript.md"><strong>JavaScript</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
-  🕓 <a href="/Git/git.md"><strong>Git</strong></a>
-  
+  🕓 <a href="/Git/git.md"><strong>Git</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
+  💻 <a href="/node/node.md"><strong>NodeJS</strong></a>
   <!--
   &nbsp;&nbsp; | &nbsp;&nbsp;
   
-  💻 <a href="/node/node.md"><strong>NodeJS</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
+  
   📄 <a href="/node_EJS/EJS.md"><strong>EJS</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
   💾 <a href="/SQL/sql.md"><strong>SQL</strong></a>
  -->
@@ -70,7 +70,7 @@
 1. ✔️ (HTML) Formulários de outro planeta
 1. ✔️ (HTML) HTML que faz sentido, para todos
 1. ✔️ (HTML) Posso ver e ouvir o HTML
-1. ❌ (JS) Pilotando com a DOM
+1. ✔️ (JS) Pilotando com a DOM
 1. ✔️ (CSS) App bonito, até nos textos
 1. ✔️ (CSS) Nem tudo são pixels
 1. ✔️ (CSS) Nem só de classes ou ID's
@@ -83,7 +83,7 @@
 
 ### 🛰️ **Viajando ao espaço**
 
-1. ❌ NodeJS: O Motor da Nave
+1. ✔️ NodeJS: O Motor da Nave
 1. ❌ NodeJS + EJS: HTML Inteligente
 1. ❌ SQL, a caixa preta da nossa nave
 
@@ -128,9 +128,9 @@
 11. ✔️ HTML que faz sentido, para todos
 12. ✔️ Nem só de classes ou ID's
 13. ✔️ Alinhando os planetas
-14. ❌ Pilotando com a DOM
+14. ✔️ Pilotando com a DOM
 15. ❌ Terminal
-16. ❌ NodeJS
+16. ✔️ NodeJS
 17. ❌ Node + EJS
 18. ❌ SQL
 19. ❌ Estruturas de Dados  ✨
