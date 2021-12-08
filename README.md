@@ -16,12 +16,11 @@
   <a href="/JavaScript/javascript.md"><img align="center" alt="JS" height="50" width="60" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/javascript-plain.svg"></a>
   <a href="/Git/git.md"><img align="center" alt="Git" height="50" width="60" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/git-original.svg"></a>
   <a href="https://github.com/rafaeljurkfitz"><img align="center" alt="Github" height="50" width="60" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/github-white.svg"></a>
-  <a href="/Node/node.md"><img align="center" alt="NodeJS" height="50" width="60" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/nodejs-original.svg"></a>
+  <a href="/Node/node.md"><img align="center" alt="Node" height="50" width="60" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/icons8-nodejs.svg"></a>
+  <a href="/Node_EJS/EJS.md"><img align="center" alt="NodeEJS" height="50" width="60" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/nodejs-original.svg"></a>
   <!--
-  <strong height="50" width="60">&nbsp; EJS &nbsp;</strong>
-  <a href="/Node_EJS/EJS.md"><img align="center" alt="Express" height="50" width="60" src=""></a>
   <strong height="50" width="60">&nbsp; SQL &nbsp;</strong>
- -->
+  -->
 </div>
   
 
@@ -32,14 +31,12 @@
   📘 <a href="/CSS/css.md"><strong>CSS</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
   📒 <a href="/JavaScript/javascript.md"><strong>JavaScript</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
   🕓 <a href="/Git/git.md"><strong>Git</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
-  💻 <a href="/node/node.md"><strong>NodeJS</strong></a>
+  💻 <a href="/node/node.md"><strong>NodeJS</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
+  📄 <a href="/node_EJS/EJS.md"><strong>EJS</strong></a>
   <!--
   &nbsp;&nbsp; | &nbsp;&nbsp;
-  
-  
-  📄 <a href="/node_EJS/EJS.md"><strong>EJS</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
   💾 <a href="/SQL/sql.md"><strong>SQL</strong></a>
- -->
+  -->
 </div>
 
 ## Módulos
@@ -84,7 +81,7 @@
 ### 🛰️ **Viajando ao espaço**
 
 1. ✔️ NodeJS: O Motor da Nave
-1. ❌ NodeJS + EJS: HTML Inteligente
+1. ✔️ NodeJS + EJS: HTML Inteligente
 1. ❌ SQL, a caixa preta da nossa nave
 
 #
@@ -131,7 +128,7 @@
 14. ✔️ Pilotando com a DOM
 15. ❌ Terminal
 16. ✔️ NodeJS
-17. ❌ Node + EJS
+17. ✔️ Node + EJS
 18. ❌ SQL
 19. ❌ Estruturas de Dados  ✨
 20. ❌ Programação Orientada a Objetos ✨
