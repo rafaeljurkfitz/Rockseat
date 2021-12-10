@@ -46,7 +46,7 @@
 ### 🚀 **Equipando sua nave**
 
 1. ❌ Ambiente dev de outro mundo
-1. ❌ Terminal, sua segunda casa
+1. ✔️ Terminal, sua segunda casa
 
 #
 
@@ -126,7 +126,7 @@
 12. ✔️ Nem só de classes ou ID's
 13. ✔️ Alinhando os planetas
 14. ✔️ Pilotando com a DOM
-15. ❌ Terminal
+15. ✔️ Terminal
 16. ✔️ NodeJS
 17. ✔️ Node + EJS
 18. ❌ SQL
