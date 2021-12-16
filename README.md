@@ -18,9 +18,7 @@
   <a href="https://github.com/rafaeljurkfitz"><img align="center" alt="Github" height="50" width="60" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/github-white.svg"></a>
   <a href="/Node/node.md"><img align="center" alt="Node" height="50" width="60" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/nodejs-original.svg"></a>
   <a href="/Node_EJS/EJS.md"><img align="center" alt="NodeEJS" height="50" width="60" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/ejs.svg"></a>
-  <!--
-  <strong height="50" width="60">&nbsp; SQL &nbsp;</strong>
-  -->
+  <a href="/SQL/sql.md"><img align="center" alt="SQL" height="50" width="60" src="https://github.com/rafaeljurkfitz/rafaeljurkfitz/blob/main/assets/sql.svg"></a>
 </div>
   
 
@@ -32,11 +30,8 @@
   📒 <a href="/JavaScript/javascript.md"><strong>JavaScript</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
   🕓 <a href="/Git/git.md"><strong>Git</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
   💻 <a href="/node/node.md"><strong>NodeJS</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
-  📄 <a href="/node_EJS/EJS.md"><strong>EJS</strong></a>
-  <!--
-  &nbsp;&nbsp; | &nbsp;&nbsp;
+  📄 <a href="/node_EJS/EJS.md"><strong>EJS</strong></a>&nbsp;&nbsp; | &nbsp;&nbsp;
   💾 <a href="/SQL/sql.md"><strong>SQL</strong></a>
-  -->
 </div>
 
 ## Módulos
@@ -82,7 +77,7 @@
 
 1. ✔️ NodeJS: O Motor da Nave
 1. ✔️ NodeJS + EJS: HTML Inteligente
-1. ❌ SQL, a caixa preta da nossa nave
+1. ✔️ SQL, a caixa preta da nossa nave
 
 #
 
@@ -129,7 +124,7 @@
 15. ✔️ Terminal
 16. ✔️ NodeJS
 17. ✔️ Node + EJS
-18. ❌ SQL
+18. ✔️ SQL
 19. ❌ Estruturas de Dados  ✨
 20. ❌ Programação Orientada a Objetos ✨
 21. ❌ Programação Funcional ✨
