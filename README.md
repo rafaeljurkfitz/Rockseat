@@ -125,9 +125,9 @@
 16. ✔️ NodeJS
 17. ✔️ Node + EJS
 18. ✔️ SQL
-19. ❌ Estruturas de Dados  ✨
-20. ❌ Programação Orientada a Objetos ✨
-21. ❌ Programação Funcional ✨
+19. ✔️ Estruturas de Dados  ✨
+20. ✔️ Programação Orientada a Objetos ✨
+21. ✔️ Programação Funcional ✨
 22. ✔️ Guia Estelar de Git
 23. ✔️ Guia estelar de Github
 24. ✔️ Guia Estelar de HTTP
