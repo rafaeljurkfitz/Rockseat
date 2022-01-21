@@ -1,9 +1,5 @@
 # Programação Orientada a Objetos
 
-Date: January 19, 2022 → January 21, 2022
-Post: Yes
-Tags: JavaScript
-
 ## O que é programação orientada a objetos?
 
 - Um paradigma de desenvolvimento;

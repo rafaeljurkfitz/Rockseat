@@ -1,9 +1,5 @@
 # Programação Funcional
 
-Date: January 19, 2022 → January 21, 2022
-Post: Yes
-Tags: JavaScript
-
 ## O que é programação funcional?
 
 - É uma maneira de resolver problemas através de funções;
