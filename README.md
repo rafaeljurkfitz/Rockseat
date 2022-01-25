@@ -40,7 +40,7 @@
 
 ### 🚀 **Equipando sua nave**
 
-1. ❌ Ambiente dev de outro mundo
+1. ✔️ Ambiente dev de outro mundo
 1. ✔️ Terminal, sua segunda casa
 
 #
