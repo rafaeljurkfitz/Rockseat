@@ -131,4 +131,4 @@
 22. ✔️ Guia Estelar de Git
 23. ✔️ Guia estelar de Github
 24. ✔️ Guia Estelar de HTTP
-25. ❌ Maratona 01
+25. ✔️ Maratona 01
